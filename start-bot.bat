@@ -1,0 +1,3 @@
+@echo off
+echo WhatsApp Bot baslatiliyor...
+npm start 
